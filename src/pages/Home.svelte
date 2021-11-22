@@ -3,6 +3,7 @@
 	import Welcome from "../components/Welcome.svelte"
 	import CharityList from "../components/charityList.svelte";
 	import Promo from "../components/Promo.svelte";
+	import Footer from "../components/Footer.svelte";
 </script>
 
 
@@ -15,3 +16,4 @@
 <Welcome />
 <CharityList />
 <Promo />
+<Footer />
